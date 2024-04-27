@@ -1,0 +1,52 @@
+Application Submitted:
+Fullname: azkia
+Email: azkia@gmail.com
+Phone: 03302799656
+Gender: male
+Dob: 2002-03-12
+Address: yseygherhfdshfdh
+Qualification: sgfdgsfdg
+Prev_job: dasdasd
+Prev_company: dasgassdag
+Prev_salary: 3000000
+Message: sdgfsdgasrdgsdgsd
+
+Application Submitted:
+Fullname: Azkia Imran
+Email: azkia@gmail.com
+Phone: 03302799656
+Gender: male
+Dob: 2002-03-12
+Address: landhi 5
+Qualification: undergraduate
+Prev_job: null
+Prev_company: null
+Prev_salary: null
+Message: sdasdasdasdasdasdasdasdas
+
+Application Submitted:
+Fullname: Azkia Imran
+Email: azkia@gmail.com
+Phone: 03302799656
+Gender: male
+Dob: 2002-03-12
+Address: landhi 5
+Qualification: undergraduate
+Prev_job: null
+Prev_company: null
+Prev_salary: null
+Message: sdasdasdasdasdasdasdasdas
+
+Application Submitted:
+Fullname: azkia
+Email: azkia@gmail.com
+Phone: 03302799656
+Gender: male
+Dob: 2002-03-12
+Address: yseygherhfdshfdh
+Qualification: sgfdgsfdg
+Prev_job: dasdasd
+Prev_company: dasgassdag
+Prev_salary: 3000000
+Message: sdgfsdgasrdgsdgsd
+
